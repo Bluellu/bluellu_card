@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 void main() {
   runApp(const MyApp());
@@ -74,11 +75,11 @@ class MyApp extends StatelessWidget {
                 margin: EdgeInsets.symmetric(horizontal: 15.0, vertical: 5.0),
                 child: ListTile(
                   leading: Icon(
-                    Icons.email_rounded,
+                    FontAwesomeIcons.twitter,
                     color: Color(0xFF53ABE1),
                   ),
                   title: Text(
-                    'luisa.c.mazzi@gmail.com',
+                    'https://twitter.com/bluellu',
                     style: TextStyle(
                         color: Color(0xFF3884B2),
                         fontSize: 20.0

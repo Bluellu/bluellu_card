@@ -78,10 +78,6 @@ flutter:
       fonts:
         - asset: fonts/IndieFlower-Regular.ttf
 
-    - family: Josefin Sans
-      fonts:
-        - asset: fonts/JosefinSans-VariableFont_wght.ttf
-
     - family: Lobster
       fonts:
         - asset: fonts/Lobster-Regular.ttf
